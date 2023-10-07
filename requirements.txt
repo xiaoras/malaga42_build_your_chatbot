@@ -1,0 +1,8 @@
+jupyter
+python-dotenv
+openai
+tiktoken
+gensim
+langchain==0.0.251
+unstructured==0.7.9
+faiss-cpu==1.7.4
