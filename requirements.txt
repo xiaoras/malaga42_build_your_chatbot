@@ -1,8 +1,9 @@
-jupyter
-python-dotenv
-openai
-tiktoken
-gensim
+jupyter==1.0.0
+python-dotenv==1.0.0
+openai==0.28.1
+tiktoken==0.5.1
+gensim==4.3.2
 langchain==0.0.251
 unstructured==0.7.9
 faiss-cpu==1.7.4
+googlesearch-python==1.2.3

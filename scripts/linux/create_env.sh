@@ -1,9 +1,8 @@
+#!/bin/bash
+
 NOTEBOOK_ENV="venv"
 
-cd ../
-
+cd ../../
 virtualenv $NOTEBOOK_ENV --clear
-
 source venv/bin/activate
-
 pip install -r requirements.txt

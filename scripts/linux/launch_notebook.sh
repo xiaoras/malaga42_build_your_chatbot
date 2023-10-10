@@ -1,7 +1,7 @@
+#!/bin/bash
+
 NOTEBOOK_ENV="venv"
 
-cd ../notebook
-
+cd ../../notebook
 source ../$NOTEBOOK_ENV/bin/activate
-
 nohup jupyter notebook
